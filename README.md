@@ -11,8 +11,6 @@ noStroke();
 fill(255,236,193);
 rect(0,250,500,250);
 
-//add sun & sunset
-
 fill(11,131,29);
 ellipse(250,300,100,150);
 fill(12,85,23);
